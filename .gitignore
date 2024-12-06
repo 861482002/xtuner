@@ -160,3 +160,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+hf_adapter_internlm_7b_chat_qlora_openassistant/
+hf_adapter_qwen2_5_7b_instruct_qlora_custom_data/
+finetune_data/
